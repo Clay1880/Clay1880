@@ -18,7 +18,7 @@ Building projects, learning new technologies, and turning ideas into reality. ğŸ
 
 - ğŸ“ BTech Information Technology student at Army Institute of Technology, Pune.
 - ğŸ’» Interested in full-stack web development using Next.js, React, and modern web technologies.
-- ğŸš€ Building full-stack web applications, SaaS products, and innovative projects.
+- ğŸš€ Building full-stack applications, SaaS products, and innovative projects.
 - ğŸŒ± Currently learning Java, Data Structures & Algorithms, and advanced web development.
 - ğŸ¤– Exploring Artificial Intelligence and Machine Learning.
 - ğŸ” Interested in Cybersecurity and Computer Forensics.
@@ -30,7 +30,7 @@ Building projects, learning new technologies, and turning ideas into reality. ğŸ
 
 <p align="left">
 
-<a href="https://instagram.com/prince_sin1729">
+<a href="https://instagram.com/prince_s226366">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
@@ -90,13 +90,19 @@ Building projects, learning new technologies, and turning ideas into reality. ğŸ
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Clay1880&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<a href="https://github.com/Clay1880">
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Clay1880&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</a>
 
+<a href="https://github.com/Clay1880">
 <img width="49%" src="https://streak-stats.demolab.com/?user=Clay1880&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" />
+</a>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clay1880&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<a href="https://github.com/Clay1880">
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Clay1880&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</a>
 
 </div>
 
@@ -106,7 +112,7 @@ Building projects, learning new technologies, and turning ideas into reality. ğŸ
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Clay1880&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+[![GitHub Activity](https://img.shields.io/badge/View-My%20Contribution%20Activity-2ea44f?style=for-the-badge&logo=github)](https://github.com/Clay1880?tab=overview&from=2026-01-01&to=2026-12-31)
 
 </div>
 
@@ -116,7 +122,11 @@ Building projects, learning new technologies, and turning ideas into reality. ğŸ
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Clay1880/Clay1880/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clay1880/Clay1880/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clay1880/Clay1880/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Clay1880/Clay1880/output/github-snake.svg" width="100%">
+</picture>
 
 </div>
 
@@ -126,7 +136,7 @@ Building projects, learning new technologies, and turning ideas into reality. ğŸ
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Clay1880&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+<img src="https://trophy.ryglcloud.net/?username=Clay1880&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="100%" />
 
 </div>
 
@@ -157,12 +167,6 @@ Building projects, learning new technologies, and turning ideas into reality. ğŸ
 ### ğŸ’« Keep Learning. Keep Building. Keep Growing.
 
 â­ Feel free to explore my repositories and connect with me!
-
-</div>
-
----
-
-<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Clay1880-181717?style=for-the-badge&logo=github)](https://github.com/Clay1880)
 
